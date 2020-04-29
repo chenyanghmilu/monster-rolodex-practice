@@ -39,4 +39,4 @@ Please follow these steps to deploy your app to GitHub Pages:
 
 > The `"predeploy"` script automatically builds the app.
 
-> The `https:// < your github username >.github.io/<the app name> link might take a minute to become active.
+> The `https:// < your github username >.github.io/< the app name > link might take a minute to become active.
